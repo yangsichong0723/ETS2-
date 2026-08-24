@@ -1,8 +1,8 @@
 {
   "version": "3.16.7",
   "url": "https://github.com/yangsichong0723/ETS2-/releases/download/v3.16.7/ETS2_SaveManager.exe",
-  "sha256": "86901a4864869b6e213acd86bb33674fe2264536576ba69912260e9bfda34f05",
-  "changelog": "新增「车队文件」标签页（车队公用资料区，暂不可用，后续功能上线后自动推送）；本次更新同时用于验证自动更新流程",
+  "sha256": "833dae0f2fa46d16fbf66431ba8b1de28b303aa672de68ad859cd02cfc472e05",
+  "changelog": "新增「车队文件」标签页（车队公用资料区，暂不可用，后续功能上线后自动推送）；修复更新检查镜像缓存延迟问题",
   "min_version": "3.16.0",
   "force": false
 }
