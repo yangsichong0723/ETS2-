@@ -1,6 +1,6 @@
 {
   "version": "3.16.5",
-  "url": "",
+  "url": "https://github.com/yangsichong0723/ETS2-/releases/download/v3.16.5/ETS2_SaveManager.exe",
   "sha256": "b27b1789db261aa69466688afaf3076be548220ecfffbdfcca407fc45c1babfb",
   "changelog": "修复成员列表用户名 Unknown / 角色 - / TMP ID 不显示的问题",
   "min_version": "3.16.0",
